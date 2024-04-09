@@ -1,0 +1,44 @@
+
+h1 {
+  font-family: "Recursive", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "slnt" -15,
+    "CASL" 1,
+    "CRSV" 0.5,
+    "MONO" 1;
+    color:rgb(36, 87, 36) ;
+   font-size: 6rem;
+   margin: 0;
+   margin-top: 30px;
+  padding-top: 50px;
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(86, 81, 81);
+}
+h6{
+    font-size: 3rem;
+    color:rgb(152, 241, 152) ;
+    margin: 20px;
+}
+#heading{
+    margin-bottom: 50px;
+}
+.player{
+    display: flex;
+    justify-content: center;
+}
+.container{
+   margin: 0;
+   padding: 0;
+   margin-bottom: 100px;
+}
+.player1Dice{
+    margin-right: 60px;
+    width: 100px;
+}
+.player2Dice{
+    width: 100px;
+}
